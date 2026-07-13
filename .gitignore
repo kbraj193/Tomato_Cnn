@@ -1,0 +1,52 @@
+/.venv
+/.vscode
+/Advanced Python.rar
+/app.py
+/ArrayDemo.py
+/BankDemo.py
+/BankDemo_error.py
+/calci.py
+/cam.py
+/classDemo.py
+/classDemo1.py
+/ComplexDemo.py
+/crop.ipynb
+/cropmodel.pkl
+/croppedface.jpg
+/Crop_recommendation (1).csv
+/dataset
+/dbDemo.py
+/Deep learning
+/Deep learning - CNN
+/demo.py
+/demo1.py
+/display_customers.py
+/facedetection.py
+/facemodel.yml
+/findbigof3.py
+/haarcascade_frontalface_default.xml
+/Maternal Risk
+/multiface.jpg
+/MultipleWindow.py
+/myapi.py
+/mylib.py
+/mynotebook.ipynb
+/mywindow.py
+/output.png
+/OverideDemo.py
+/person.jpg
+/PersonDemo.py
+/predict.py
+/predict_live.py
+/PrivateDemo.py
+/requiremenets.txt
+/sachin.jpg
+/static
+/Studentdemo.py
+/templates
+/TkDemo.py
+/train.py
+/videoDemo.py
+/weatherapp.py
+/WhatsApp Image 2026-04-21 at 13.45.43.jpeg
+/__pycache__
