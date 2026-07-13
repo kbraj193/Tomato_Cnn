@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+ipykernel
+opencv-contrib-python
+tensorflow
