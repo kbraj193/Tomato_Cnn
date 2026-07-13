@@ -3,3 +3,4 @@ scikit-learn
 ipykernel
 opencv-contrib-python
 tensorflow
+pillow
